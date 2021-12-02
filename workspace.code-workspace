@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ethstats-server/bin"
+		},
+		{
+			"path": "../ethstats-server/lib"
+		},
+		{
+			"path": "../ethstats-server/src"
+		}
+	],
+	"settings": {}
+}
