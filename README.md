@@ -3,7 +3,7 @@ Ethereum Network Stats with POA and POW support
  
 This is a visual interface for tracking proof-of-work ("mainnet") and proof-of-authority ("testnet") network status. It uses WebSockets to receive stats from running nodes and output them through an angular interface. It is the front-end implementation for ethstats-client.
 
-Proof-of-Authority
+Panoptis Proof-of-Authority
 
 
 Demo: https://stats.goerli.net/
